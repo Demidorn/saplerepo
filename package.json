@@ -1,0 +1,12 @@
+{
+  "name": "saplerepo",
+  "version": "1.0.0",
+  "description": "Demi store online shop for all your closet, home decor and furniture needs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
